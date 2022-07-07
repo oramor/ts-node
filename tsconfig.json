@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "rootDir": ".",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext"
+        ],
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "references": [
+        {
+            "path": "project"
+        }
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+}
